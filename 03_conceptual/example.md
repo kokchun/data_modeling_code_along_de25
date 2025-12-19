@@ -11,3 +11,7 @@
 - An Order is placed by *one and only one* Customer
 - An Order contains *one or many* Products
 - A Product is contained in *zero or many* Orders
+
+
+Customer(customer_id, first_name, last_name, ...)
+...
